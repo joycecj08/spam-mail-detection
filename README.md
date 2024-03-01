@@ -1,4 +1,4 @@
-# spam-mail-detection
+# spam-mail-detection-tkinterGUI
 Hello Guys!👋
 This is a spam mail detection system using machine learning algorithm with GUI(TKINTER).     
 Ofcourse implemented in Python🐍.
